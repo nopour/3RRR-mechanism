@@ -14,8 +14,11 @@ A planar mechanism with four links that includes a sliding joint and three revol
 > For clearly understanding the provided code, it is highly recommended to read the following book/papers
 
  Visit https://doi.org/10.1007/978-3-031-53582-6_3
+ 
  Visit https://doi.org/10.1109/ICRoM60803.2023.10412355
+ 
  Visit https://doi.org/10.1109/ICRoM57054.2022.10025339
+ 
 
 # Contact
 Send any queries to Reza Nopour (rezanopour@gmail.com).
