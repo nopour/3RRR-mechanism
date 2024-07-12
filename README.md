@@ -1,10 +1,11 @@
 # 3RRR-mechanism
 
-A planar mechanism with four links that includes a sliding joint and three revolute joints, is known as slider-crank linkage. The rotation of the crankshaft leads the slider to manoeuvre linearly.
+A planar mechanism with four links that includes a sliding joint and three revolute joints, is known as slider-crank linkage. The rotation of the crankshaft leads the slider to manoeuvre linearly.
+
 <p align="center"> 
-<picture>
+
 ![image](https://github.com/user-attachments/assets/9e57c669-fb5e-44f0-8c98-7afc0784f263)
-</picture>
+
 </p>
 
 # Note
