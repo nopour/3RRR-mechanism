@@ -6,7 +6,7 @@
 
 # 3RRR-Mechanism
 
-A planar mechanism with four links that includes a sliding joint and three revolute joints, is known as slider-crank linkage. The rotation of the crankshaft leads the slider to manoeuvre linearly.
+A geometric description of 3 RRR parallel robots which composed by a mobile platform (MP) and three RRR serial chains that join it to a fixed base (Fig. 1). Each RRR chain is a serial chain composed by three rotational R joints.
 
 <p align="center"> 
 
